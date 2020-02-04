@@ -1,0 +1,4 @@
+curl \
+  -F "file=@incremental.csv;type=text/csv" \
+  -F "access_token=EAAfRMNpp4sgBAH0ikIZCUbZBbyLhIE8ZCBy40itex3ZC0Y1UnJ4CYkFcvZBjlZAuCGZBec49CqFRdbacAZCUdD5DLht8NOqmJzM8PrkrWUEy763IZAlZBZARIawye7HznQTZBUXtiEOcVsH7BC2OmNO2bi6dZCnhZCwHV2iOrynoV0t6FiTIhO8EFzeoK7ARUPNc855tSuaRHPUosEVgZDZD   " \
+  https://graph.facebook.com/v4.0/402314314014779/uploads

@@ -1,0 +1,26 @@
+{
+    "name": "Main Feed",
+    "schedule": {
+        "interval": "DAILY",
+        "url": "http://www.example.com/sample_language_feed.tsv",
+        "hour": 22
+    }
+}
+
+
+
+
+{
+    "name": "Main Feed",
+    "schedule": {
+        "interval": "DAILY",
+        "url": "https://mahasak.github.io/tshirt-demo/catalog/incremental.csv",
+        "hour": 22
+    }
+}
+
+"https://graph.facebook.com/v3.2/<ASSET_ID(PIXEL)>/assigned_users?
+user=<SYSTEM_USER_ID>
+&tasks=EDIT%2C%20ANALYZE
+&business=<CLIENT_BM_ID>
+&access_token=<USERS_ACCESS_TOKEN>"
